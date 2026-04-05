@@ -21,7 +21,10 @@ This is a real-time chat application developed using Java Socket Programming. It
 4. Start chatting between users
 
 ## 📸 Screenshots
-(Add screenshots if available)
+
+### 💬 Chat Application Window
+![Chat App](ChatAPP.png)
+
 
 ## 📚 Learning Outcome
 - Learned socket programming concepts
